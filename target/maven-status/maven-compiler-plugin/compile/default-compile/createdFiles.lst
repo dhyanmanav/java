@@ -1,0 +1,17 @@
+com\spaceshooter\model\Difficulty.class
+com\spaceshooter\config\ServletRegistrationConfig.class
+com\spaceshooter\model\Pilot.class
+com\spaceshooter\SpaceShooterApplication.class
+com\spaceshooter\model\EnemyType.class
+com\spaceshooter\service\GameService.class
+com\spaceshooter\model\ShipClass.class
+com\spaceshooter\servlet\GameStateServlet.class
+com\spaceshooter\model\Enemy.class
+com\spaceshooter\model\GameState.class
+com\spaceshooter\controller\GameController.class
+com\spaceshooter\model\ScoreEntry.class
+com\spaceshooter\model\WeaponType.class
+com\spaceshooter\model\Mission.class
+com\spaceshooter\service\GameService$1.class
+com\spaceshooter\model\PilotRank.class
+com\spaceshooter\model\Ship.class
